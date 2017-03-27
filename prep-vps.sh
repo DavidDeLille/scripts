@@ -37,4 +37,4 @@ echo 'export PATH=$PATH:/opt/nikto/program/' >> ~/.profile
 # Links
 ln -s /usr/share/wordlists /w
 
-# TODO: cp directonaries to /usr/share/wordlists
+# TODO: cp dictonaries to /usr/share/wordlists
