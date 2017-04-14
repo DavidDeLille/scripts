@@ -9,6 +9,9 @@ wget https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
 rm get-pip.py
 
+# Set Intel assembly in gdb
+echo "set disassembly-flavor intel" >> ~/.gdbinit
+
 # Tools
 # altdns
 cd /opt/
